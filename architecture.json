@@ -1,0 +1,160 @@
+{
+  "book_id": "digital-native-minimalist-class-struggle",
+  "title": "The Friction of a Stone",
+  "tagline": "In a world that values only efficiency, one man's last possession becomes the spark of revolution.",
+  "target_words": 70000,
+  "actual_words": 75917,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Materiality of Memory in a Digital Age",
+    "Efficiency as a Tool of Class Control",
+    "The Search for Identity Beyond Labor Rating",
+    "The Inherent Rebellion of Useless Objects"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "Dissolution",
+      "words": 3163
+    },
+    {
+      "ch": 2,
+      "title": "The Ground Level",
+      "words": 3163
+    },
+    {
+      "ch": 3,
+      "title": "The Warrens",
+      "words": 3163
+    },
+    {
+      "ch": 4,
+      "title": "The Code in the Crate",
+      "words": 3163
+    },
+    {
+      "ch": 5,
+      "title": "The Supervisor's Secret",
+      "words": 3163
+    },
+    {
+      "ch": 6,
+      "title": "Tier Three",
+      "words": 3163
+    },
+    {
+      "ch": 7,
+      "title": "The Basil Never Tasted",
+      "words": 3163
+    },
+    {
+      "ch": 8,
+      "title": "Friction Has a Cost",
+      "words": 3163
+    },
+    {
+      "ch": 9,
+      "title": "The Old Man and the Sea",
+      "words": 3163
+    },
+    {
+      "ch": 10,
+      "title": "The Assetless",
+      "words": 3163
+    },
+    {
+      "ch": 11,
+      "title": "A Glitch in the Stream",
+      "words": 3163
+    },
+    {
+      "ch": 12,
+      "title": "The Vertical's Pulse",
+      "words": 3163
+    },
+    {
+      "ch": 13,
+      "title": "The Man with Scarred Maps",
+      "words": 3163
+    },
+    {
+      "ch": 14,
+      "title": "Holographic Chains",
+      "words": 3163
+    },
+    {
+      "ch": 15,
+      "title": "Breathing Unfiltered Air",
+      "words": 3163
+    },
+    {
+      "ch": 16,
+      "title": "The Illogical Weight",
+      "words": 3163
+    },
+    {
+      "ch": 17,
+      "title": "Kinship in Grey",
+      "words": 3163
+    },
+    {
+      "ch": 18,
+      "title": "Ninety-Day Permits",
+      "words": 3163
+    },
+    {
+      "ch": 19,
+      "title": "The Pink-Lit Chambers",
+      "words": 3163
+    },
+    {
+      "ch": 20,
+      "title": "A Biography in Seven Lines",
+      "words": 3163
+    },
+    {
+      "ch": 21,
+      "title": "The Cost of Attachment",
+      "words": 3163
+    },
+    {
+      "ch": 22,
+      "title": "The River Stone's Edge",
+      "words": 3163
+    },
+    {
+      "ch": 23,
+      "title": "Un-Making",
+      "words": 3163
+    },
+    {
+      "ch": 24,
+      "title": "The Open Wound",
+      "words": 3163
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character from the sterile upper tiers discovers a handmade, 'useless' object in the Warrens and must hide it from audits.",
+      "Explore the backstory of the supervisor with the 9.8 rating: what personal friction did she have to delete to survive?",
+      "A group of 'Assetless' individuals develop a secret language based on the textures and weights of forbidden physical objects.",
+      "A system glitch causes a high-rating citizen to be temporarily reassigned to basil cultivation; describe their sensory and existential shock."
+    ],
+    "technical": [
+      "Design a 'Friction Tracker' UI/UX concept that visualizes the systemic cost of sentimental or inefficient objects/behaviors in the Vertical.",
+      "Prototype a text-based game where the player must manage their 'Rating' and 'Credit' while secretly preserving a physical artifact."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Ursula K. Le Guin",
+      "George Orwell",
+      "Mieko Kawakami",
+      "William Gibson"
+    ]
+  },
+  "cover_prompt": "A man's weathered hand cradles a smooth, ordinary river stone, his thumb tracing its imperfections with reverence, while the reflection in a vast, pristine window behind him reveals a monolithic, minimalist city of gleaming white towers and silent levitating transports. The scene is set in a sterile, hyper-efficient apartment where the only object on a vast empty shelf is this stone, its tactile, organic form a stark rebellion against the seamless, digital environment. In the atmospheric style of Simon Stålenhag and Beeple, blending melancholic futurism with hyper-realistic detail, capturing the weight of memory against a cold, optimized world. Book cover framing, centered composition with a dramatic low-angle shot looking up at the man's focused profile against the oppressive cityscape, emphasizing the small stone as a monumental focal point. Cinematic chiaroscuro lighting with a stark contrast between the warm, intimate glow on the hand and stone and the cold, uniform LED ambiance of the city, using a palette of desaturated blues and whites punctuated by the earthy ochres and grays of the stone. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
