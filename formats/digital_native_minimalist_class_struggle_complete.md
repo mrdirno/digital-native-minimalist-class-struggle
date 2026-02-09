@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The last thing I own that my mother touched fits in the palm of my hand. It’s a river stone, grey and smooth, flat like a skipping stone. She plucked it from the bank of the Willamette twelve years ago, the summer before the sky turned the color of bad milk and stayed that way. She didn’t give it to me. She left it on the kitchen counter, still damp. I put it in my pocket. I’ve kept it since. It lives in the fifth slot of my GridCrate, between the multi-tool and the roll of biodegradable filament. It serves no purpose. It is my single point of frictionless, illogical weight.
@@ -153,6 +155,8 @@ The flavor is a shock. It is sweet. It is green. It is the taste of a world I ne
 I swallow, and walk toward my thin walls and my bad filters, the taste of earth and revelation on my tongue.
 
 ---
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The habitation pod in HabStack 7 is a sarcophagus with bad ventilation. It’s half the size of my GenSyn quarters, and everything is coated in a fine, grey dust that smells of stale filters and mildew. The cot is a slab of hardened foam bolted to the wall. The sink dispenses a trickle of metallic-tasting water. The single light panel flickers at a frequency that makes my teeth ache. It is, as the old man predicted, terrible.
@@ -280,6 +284,8 @@ Outside, the perpetual grey dawn is still hours away. I close my eyes. I see gre
 At 03:30, I am already moving.
 
 ---
+# Chapter 3
+
 ## **CHAPTER 3**
 
 The pre-dawn Vertical is a different organism. The arterial streets are quieter, flowing with the graveyard shift—maintenance crews in dun-colored coveralls, sanitation bots humming over the pavements, security patrols moving in silent, paired units. The light from the dome is at its dimmest, a murky twilight that turns the world into shades of charcoal and slate. I move through it like a ghost in my grey tunic, my GridCrate a shadow at my side. My rating is my passport; my purposeful stride is my camouflage.
